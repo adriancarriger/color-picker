@@ -37,3 +37,16 @@
     transform: translateY(0px);
   }
 }
+
+button {
+  padding: 4px 8px;
+  margin: 5px;
+  background: transparent;
+  border: 1px solid darkgray;
+  border-radius: 2px;
+}
+
+input {
+  padding: 5px 10px;
+  margin: 2px;
+}
